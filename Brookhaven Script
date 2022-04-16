@@ -1,0 +1,2 @@
+--I do not know if this works.
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kyedaley/Scripts/main/script.lua'))()
